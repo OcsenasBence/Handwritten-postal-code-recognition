@@ -1,0 +1,1 @@
+Egyetemi tanulmányaim alatt a Képfeldolgozás és orvosi képalkotás nevezetü tárgy megismertette velem a képalkotás elméletét. Az általam választott projekt egy olyan program megírása volt ami képes kézzel írott postai irányítószámokat felismerni.
